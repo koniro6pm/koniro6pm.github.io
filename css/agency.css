@@ -293,7 +293,7 @@ header .intro-text .intro-heading {
   }
 }
 section {
-  padding: 100px 0;
+  padding: 70px 0;
 }
 section h2.section-heading {
   font-size: 40px;
@@ -311,7 +311,7 @@ section h3.section-subheading {
 }
 @media (min-width: 768px) {
   section {
-    padding: 100px 0;
+    padding: 70px 0;
   }
 }
 .service-heading {
@@ -573,6 +573,13 @@ section h3.section-subheading {
 }
 aside.clients img {
   margin: 50px auto;
+}
+
+section#work{
+  background-image: url('../img/tree.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 section#contact {
   background-color: #222222;
